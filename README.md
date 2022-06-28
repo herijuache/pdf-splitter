@@ -10,7 +10,6 @@ Many websites online that offer services to split PDFs have various restrictions
 ## Packages
 - PyPDF2
 - tkinter
-- os
 
 ## How to Install
 Simply download zip that contains the code and files or clone the repository.
@@ -32,6 +31,6 @@ I've included two files to testing purposes: *example.exe* and *constitution.pdf
 - Add Merge functionality
 
 ## Helpful Links
-- [tkinter Docs](https://docs.python.org/3/library/tkinter.html)
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
 - [PyInstaller](https://pyinstaller.org/en/stable/index.html)
