@@ -1,5 +1,5 @@
 # Overview
-Many websites online that offer services to split PDFs have various restrictions. Some have hourly limits, some have you create an account, some ask for an email to send the results to, etc. I noticed a fellow co-worker of mine was always having issues with these "free" websites, so I decided to create a program that would split a desired PDF. The program takes in the name of the PDF and prompts the user to enter a number  
+Many websites online that offer services to split PDFs have various restrictions. Some have hourly limits, some have you create an account, some ask for an email to send the results to, etc. I noticed a fellow co-worker of mine was always having issues with these "free" websites, so I decided to create a program that would split a desired PDF. The program takes in the name of the PDF and prompts the user to enter a number of pages per outputted PDF. 
 
 ## Files
 - *main.py*: contains the logic for splitting the PDFs
@@ -33,5 +33,5 @@ I've included two files to testing purposes: *example.exe* and *constitution.pdf
 
 ## Helpful Links
 - [tkinter Docs](https://docs.python.org/3/library/tkinter.html)
-- [(PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
+- [PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
 - [PyInstaller](https://pyinstaller.org/en/stable/index.html)
