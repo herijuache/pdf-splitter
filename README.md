@@ -4,7 +4,7 @@ Many websites online that offer services to split PDFs have various restrictions
 ## Files
 - *main.py*: contains the logic for splitting the PDFs
 - *gui.py*: GUI code for receiving user input
-- *example.exe*: standalone app created using the Python package __pyinstaller__
+- *main.exe*: standalone app created using the Python package __pyinstaller__
 - *constitution.pdf*: random PDF included for testing the program
 
 ## Packages
@@ -16,7 +16,7 @@ Simply download zip that contains the code and files or clone the repository.
 
 ## How to Run
 I've included two files to testing purposes: *example.exe* and *constitution.pdf*. Make sure that the PDF is in the same directory as the .exe file. 
-1. Open *example.exe*
+1. Open *main.exe*
 2. Enter the name of the PDF
 3. Enter how many pages you want the separated PDF files to have
 	- e.g. if the user enters "2" then each outputted file will have two pages from the original PDF
