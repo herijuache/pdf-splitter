@@ -21,10 +21,6 @@ I've included two files to testing purposes: *example.exe* and *constitution.pdf
 3. Enter how many pages you want the separated PDF files to have
 	- e.g. if the user enters "2" then each outputted file will have two pages from the original PDF
 4. Click *Submit* and close the GUI
- 
-## Known Issues
-- GUI doesn't close once "Submit" button is inputted
-- Program does throws error if GUI is closed before submitting
 
 ## Possible Updates
 - Drag and drop files
